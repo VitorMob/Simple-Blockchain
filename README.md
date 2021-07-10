@@ -3,6 +3,7 @@
   ![Ilustration](https://github.com/VitorMob/Simple-Blockchain/blob/main/assets/5e77yv.png)
 
 # Info!!! 
+  sorry per my errors in ortografics !!
   
   version in actualized in gitLab --> [Simple-Blockchain](https://gitlab.com/mobhacking100/simple-blockchain)
 
