@@ -29,5 +29,7 @@ For the compiler command, run `make` to run the blockchain run` make run` if you
 
 `@Version 0.1 beta`
  >  linked blocks
+ 
  >  optimized code
+ 
  >  cryptography used sha256
