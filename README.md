@@ -1,7 +1,3 @@
----
-title: " Blockchain "
----
-
 # Simple-Blockchain 
   
   @version 0.1
